@@ -1,0 +1,40 @@
+# System / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Java / C# / general build artifacts
+bin/
+build/
+dist/
+out/
+obj/
+target/
+classes/
+*.class
+*.jar
+*.war
+*.ear
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled / temporary files
+*.o
+*.obj
+*.lo
+*.a
+*.out
+*.tmp
+*.log
+
+# Local config
+.env
+.env.*
+
+# Git-specific
+.gitignore~

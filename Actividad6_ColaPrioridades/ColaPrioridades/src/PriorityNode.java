@@ -1,3 +1,5 @@
+package EDSemana3.Actividad6_ColaPrioridades.ColaPrioridades.src;
+
 public class PriorityNode <T> {
     private int data;
     private int priority;

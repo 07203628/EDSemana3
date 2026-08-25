@@ -1,3 +1,5 @@
+package EDSemana3.Actividad6_ColaPrioridades.ColaPrioridades.src;
+
 public class PriorityQueue <T> {
     private PriorityNode <T> head;
     private PriorityNode <T> front;

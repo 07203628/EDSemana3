@@ -1,3 +1,5 @@
+package EDSemana3.Actividad6_ColaPrioridades.ColaPrioridades.src;
+
 public class App {
     public static void main(String[] args) throws Exception {
         PriorityQueue<Integer> emergencies = new PriorityQueue<>();
